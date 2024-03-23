@@ -19,12 +19,7 @@ let package = Package(
         .target(
             name: "FMDB",
             dependencies: [],
-            path: "src/fmdb",
-            publicHeadersPath: "."),
-        .target(
-            name: "ExtraFTS3",
-            dependencies: [],
-            path: "src/extra/fts3",
+            path: "src",
             publicHeadersPath: ".")
     ]
 )
