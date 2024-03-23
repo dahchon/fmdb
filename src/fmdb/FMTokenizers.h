@@ -8,7 +8,6 @@
 
 #import <Foundation/Foundation.h>
 #import "FMDatabase+FTS3.h"
-#import "FMTokenizers.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
